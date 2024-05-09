@@ -1,0 +1,89 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+nav ul {
+    display: inline;
+    justify-content: space-between;
+    margin-right: 60px;
+    color: #636060;
+}
+ nav {
+    margin-top: 10px;
+ }
+
+ .back {
+    background-image: url(../images/bg.svg);
+    width: 100%;
+    height: 600px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+ }
+ 
+
+ .h2 {
+     position: absolute;
+     color: white;
+     margin-top: -400px;
+     margin-left: 500px;
+     width: 625px;
+     height: 91px;
+     font-size: 80px;
+
+ }
+
+ .h1 {
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: -300px;
+    margin-left: 600px;
+
+ }
+
+ .text {
+    width: 235px;
+    color: #636060;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.ou {
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.ft {
+    width: 235px;
+    color: #636060;
+    margin-top: 10px;
+
+}
+
+.se {
+    display: flex;
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
+  
+.id {
+    margin-top: 15px;
+}
+
+.im {
+    margin-left: 30px;
+}
+
+.i {
+    margin-left: 345px;
+    margin-top: 40px;
+}
+
+.m {
+    margin-left: 30px;
+    margin-top: 40px;
+}
